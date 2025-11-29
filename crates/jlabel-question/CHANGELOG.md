@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.7](https://github.com/Mogyuchi/test-jlabel/compare/jlabel-question-v0.1.6...jlabel-question-v0.1.7) (2025-11-29)
+
+
+### Miscellaneous Chores
+
+* test ([8794185](https://github.com/Mogyuchi/test-jlabel/commit/8794185999fa91a3bf7702caca35e3dc6fb09bda))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * jlabel bumped from 0.1.6 to 0.1.7
+
 ## [0.1.6](https://github.com/Mogyuchi/test-jlabel/compare/jlabel-question-v0.1.5...jlabel-question-v0.1.6) (2025-11-29)
 
 
