@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/Mogyuchi/test-jlabel/compare/jlabel-v0.1.5...jlabel-v0.1.6) (2025-11-29)
+
+
+### Miscellaneous Chores
+
+* test ([cee9906](https://github.com/Mogyuchi/test-jlabel/commit/cee9906e67093486e09c2b6552f8636c1867ce5e))
+
 ## [0.1.5](https://github.com/Mogyuchi/test-jlabel/compare/jlabel-v0.1.5...jlabel-v0.1.5) (2025-10-30)
 
 
